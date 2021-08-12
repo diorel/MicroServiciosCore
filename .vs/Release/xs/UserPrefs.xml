@@ -1,34 +1,37 @@
 ﻿<Properties StartupConfiguration="{2ED32003-CC0E-4C5A-B817-16A420FDDB6F}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Taller.Facturacion.Productos.WebAPI/Controllers/CategoriasController.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Taller.Facturacion.Productos.WebAPI/Startup.cs">
     <Files>
-      <File FileName="Taller.Facturacion.Productos.infraestructure.Core/Class1.cs" Line="8" Column="1" />
-      <File FileName="Taller.Facturacion.Productos.WebAPI/Program.cs" />
-      <File FileName="Taller.Facturacion.Productos.WebAPI/Controllers/ProductosController.cs" />
-      <File FileName="Taller.Facturacion.Productos.WebAPI/Controllers/CategoriasController.cs" Line="1" Column="1" />
+      <File FileName="Taller.Facturacion.Productos.Application/Services/Contracts/IProductoService.cs" Line="13" Column="1" />
+      <File FileName="Taller.Facturacion.Productos.Application/Services/ProductoService.cs" Line="14" Column="165" />
+      <File FileName="Taller.Facturacion.Productos.WebAPI/Controllers/ProductosController.cs" Line="24" Column="10" />
+      <File FileName="Taller.Facturacion.Productos.WebAPI/Startup.cs" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="Release" expanded="True">
-            <Node name="Taller.Facturacion.Productos.WebAPI" expanded="True">
-              <Node name="Controllers" expanded="True">
-                <Node name="CategoriasController.cs" selected="True" />
+            <Node name="Taller.Facturacion.Productos.Application" expanded="True">
+              <Node name="Services" expanded="True">
+                <Node name="Contracts" expanded="True" />
               </Node>
+            </Node>
+            <Node name="Taller.Facturacion.Productos.Domain" expanded="True">
+              <Node name="Entities" expanded="True" />
+            </Node>
+            <Node name="Taller.Facturacion.Productos.WebAPI" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Startup.cs" selected="True" />
             </Node>
           </Node>
         </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.ItemProperties.Taller.Facturacion.Productos.Application FirstBuild="True" />
-  <MonoDevelop.Ide.ItemProperties.Taller.Facturacion.Productos.Infraestucture.Persistence FirstBuild="True" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.ItemProperties.Taller.Facturacion.Productos.Domain FirstBuild="True" />
   <MonoDevelop.Ide.ItemProperties.Taller.Facturacion.Productos.WebAPI PreferredExecutionTarget="/Applications/Google Chrome.app" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.ItemProperties.Taller.Facturacion.Productos.infraestructure.Core FirstBuild="True" />
 </Properties>

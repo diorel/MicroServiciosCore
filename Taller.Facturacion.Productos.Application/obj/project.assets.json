@@ -1,11 +1,30 @@
 {
   "version": 3,
   "targets": {
-    ".NETCoreApp,Version=v3.1": {}
+    ".NETCoreApp,Version=v3.1": {
+      "Taller.Facturacion.Productos.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/Taller.Facturacion.Productos.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Taller.Facturacion.Productos.Domain.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "Taller.Facturacion.Productos.Domain/1.0.0": {
+      "type": "project",
+      "path": "../Taller.Facturacion.Productos.Domain/Taller.Facturacion.Productos.Domain.csproj",
+      "msbuildProject": "../Taller.Facturacion.Productos.Domain/Taller.Facturacion.Productos.Domain.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    ".NETCoreApp,Version=v3.1": []
+    ".NETCoreApp,Version=v3.1": [
+      "Taller.Facturacion.Productos.Domain >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "/Users/Diorel/.nuget/packages/": {}
@@ -31,7 +50,11 @@
       "frameworks": {
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
-          "projectReferences": {}
+          "projectReferences": {
+            "/Users/Diorel/Documents/GitHub/MicroServiciosCore/Taller.Facturacion.Productos.Domain/Taller.Facturacion.Productos.Domain.csproj": {
+              "projectPath": "/Users/Diorel/Documents/GitHub/MicroServiciosCore/Taller.Facturacion.Productos.Domain/Taller.Facturacion.Productos.Domain.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

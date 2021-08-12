@@ -1,0 +1,8 @@
+/Users/Diorel/Documents/GitHub/MicroServiciosCore/Taller.Facturacion.Productos.infraestructure.Core/bin/Debug/netcoreapp3.1/Taller.Facturacion.Productos.infraestructure.Core.deps.json
+/Users/Diorel/Documents/GitHub/MicroServiciosCore/Taller.Facturacion.Productos.infraestructure.Core/bin/Debug/netcoreapp3.1/Taller.Facturacion.Productos.infraestructure.Core.dll
+/Users/Diorel/Documents/GitHub/MicroServiciosCore/Taller.Facturacion.Productos.infraestructure.Core/bin/Debug/netcoreapp3.1/Taller.Facturacion.Productos.infraestructure.Core.pdb
+/Users/Diorel/Documents/GitHub/MicroServiciosCore/Taller.Facturacion.Productos.infraestructure.Core/obj/Debug/netcoreapp3.1/Taller.Facturacion.Productos.infraestructure.Core.AssemblyInfoInputs.cache
+/Users/Diorel/Documents/GitHub/MicroServiciosCore/Taller.Facturacion.Productos.infraestructure.Core/obj/Debug/netcoreapp3.1/Taller.Facturacion.Productos.infraestructure.Core.AssemblyInfo.cs
+/Users/Diorel/Documents/GitHub/MicroServiciosCore/Taller.Facturacion.Productos.infraestructure.Core/obj/Debug/netcoreapp3.1/Taller.Facturacion.Productos.infraestructure.Core.csproj.CoreCompileInputs.cache
+/Users/Diorel/Documents/GitHub/MicroServiciosCore/Taller.Facturacion.Productos.infraestructure.Core/obj/Debug/netcoreapp3.1/Taller.Facturacion.Productos.infraestructure.Core.dll
+/Users/Diorel/Documents/GitHub/MicroServiciosCore/Taller.Facturacion.Productos.infraestructure.Core/obj/Debug/netcoreapp3.1/Taller.Facturacion.Productos.infraestructure.Core.pdb

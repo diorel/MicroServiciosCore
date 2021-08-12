@@ -12,4 +12,12 @@
   <ItemGroup>
     <Folder Include="Infrastructure\" />
   </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Taller.Facturacion.Productos.Domain\Taller.Facturacion.Productos.Domain.csproj">
+      <GlobalPropertiesToRemove></GlobalPropertiesToRemove>
+    </ProjectReference>
+    <ProjectReference Include="..\Taller.Facturacion.Productos.Application\Taller.Facturacion.Productos.Application.csproj">
+      <GlobalPropertiesToRemove></GlobalPropertiesToRemove>
+    </ProjectReference>
+  </ItemGroup>
 </Project>
